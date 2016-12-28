@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">OnRoute</string>
+    <string name="edit_startlocation">Enter your starting location</string>
+    <string name="edit_destination">Enter your destination</string>
+    <string name="button_enter">Enter</string>
 </resources>
