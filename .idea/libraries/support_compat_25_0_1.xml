@@ -2,11 +2,12 @@
   <library name="support-compat-25.0.1">
     <ANNOTATIONS>
       <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/8e1ec2ef12995efe8b327a0d4e49479b49a08510/output/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar!/" />
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/8e1ec2ef12995efe8b327a0d4e49479b49a08510/output/jars/libs/internal_impl-25.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/8e1ec2ef12995efe8b327a0d4e49479b49a08510/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/8e1ec2ef12995efe8b327a0d4e49479b49a08510/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
